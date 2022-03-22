@@ -25,6 +25,7 @@ Liew Zi Feng, Yong Yung Jun
 - dataset2.json (JSON type Dataset)
 - nbDatesets.csv (CSV type GaussinNB Dataset)
 - Chatbot.ipynb (Chatbot notebook)
+- chatbot_model.h5 (Trained saved model)
 - dictionary.pkl (Store all the unique lemmatized words)
 - pattern_classes.pkl (Stores all the different tags/classes)
 
